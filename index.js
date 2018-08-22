@@ -1,4 +1,4 @@
-var name = "The name is correct"
+var name = "Joe"
 var height = "The height is correct"
 
 
